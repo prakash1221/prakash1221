@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Prakash
+## Hi there 👋 I'm Hemaprakash
 
 💻 Passionate Software Developer | Startup Enthusiast | Problem Solver  
 

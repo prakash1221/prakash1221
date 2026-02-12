@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there 👋 I'm Prakash
 
-<!--
-**prakash1221/prakash1221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Passionate Software Developer | Startup Enthusiast | Problem Solver  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on building real world web applications and an ATS Resume Matching System that analyzes resumes against job descriptions.
+- 🌱 I’m currently learning Data Structures & Algorithms, Backend Development (Java), REST APIs, and scalable system design.
+- 👯 I’m looking to collaborate on startup projects, SaaS tools, and automation based applications.
+- 🤔 I’m looking for help with improving system design skills and building production level applications.
+- 💬 Ask me about Java, Web Development, Resume Optimization Systems, and breaking into startup tech roles.
+- 📫 How to reach me:   
+  - 💼 LinkedIn: [https://linkedin.com/in/your-profile](http://www.linkedin.com/in/hemaprakash-p1221)   
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I enjoy turning everyday problems into software solutions and experimenting with AI powered tools.
